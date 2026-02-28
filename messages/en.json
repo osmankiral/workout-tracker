@@ -171,7 +171,21 @@
     "heroTitle": "Workout Tracker SaaS",
     "heroSubtitle": "Professional workout tracking for athletes",
     "login": "Login",
-    "register": "Register"
+    "register": "Register",
+    "features": {
+      "track": {
+        "title": "Track Everything",
+        "description": "Log your workouts, sets, reps, and weights with ease. Keep track of your progress over time."
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "description": "Visualize your gains with detailed charts and graphs. Understand your volume and intensity."
+      },
+      "pr": {
+        "title": "Personal Records",
+        "description": "Automatically track your PRs for every exercise. Celebrate your milestones."
+      }
+    }
   },
   "Auth": {
     "loginTitle": "Login",
@@ -203,7 +217,10 @@
       "emailNotConfirmed": "Please confirm your email address before logging in.",
       "invalidCredentials": "Invalid email or password.",
       "generic": "Something went wrong. Please try again."
-    }
+    },
+    "backToHome": "Back to Home",
+    "promoTitle": "Tracking Made Simple",
+    "promoDescription": "Join thousands of athletes who are taking their training to the next level with our professional workout tracking tools."
   },
   "Theme": {
     "light": "Light",

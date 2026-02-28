@@ -209,7 +209,21 @@
     "heroTitle": "Workout Tracker SaaS",
     "heroSubtitle": "Sporcular için profesyonel antrenman takibi",
     "login": "Giriş Yap",
-    "register": "Kayıt Ol"
+    "register": "Kayıt Ol",
+    "features": {
+      "track": {
+        "title": "Her Şeyi Takip Et",
+        "description": "Antrenmanlarını, setlerini, tekrarlarını ve ağırlıklarını kolayca kaydet. Zaman içindeki gelişimini takip et."
+      },
+      "analytics": {
+        "title": "Gelişmiş Analizler",
+        "description": "Gelişimini detaylı grafiklerle görselleştir. Antrenman hacmini ve yoğunluğunu anla."
+      },
+      "pr": {
+        "title": "Kişisel Rekorlar",
+        "description": "Her egzersiz için kişisel rekorlarını otomatik olarak takip et. Başarılarını kutla."
+      }
+    }
   },
   "Auth": {
     "loginTitle": "Giriş Yap",
@@ -241,7 +255,10 @@
       "emailNotConfirmed": "Lütfen giriş yapmadan önce e-posta adresinizi doğrulayın.",
       "invalidCredentials": "Geçersiz e-posta veya şifre.",
       "generic": "Bir hata oluştu. Lütfen tekrar deneyin."
-    }
+    },
+    "backToHome": "Ana Sayfaya Dön",
+    "promoTitle": "Takip Etmek Artık Çok Kolay",
+    "promoDescription": "Profesyonel antrenman takip araçlarımızla antrenmanlarını bir üst seviyeye taşıyan binlerce sporcuya katıl."
   },
   "Theme": {
     "light": "Aydınlık",
